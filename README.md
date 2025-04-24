@@ -24,7 +24,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Spoorthy1423/AI_NOTES_APP.git
+   git clone https://github.com/Spoorthy1423/mini_ai_notes
    cd AI_NOTES_MAKING
    npm install
    npm run dev
@@ -40,6 +40,7 @@ DATABASE_URL=your-database-url
 OPENAI_API_KEY=your-openai-api-key
 DEEPSEEK_API_KEY=your-deepseek-api-key
 HUGGINGFACE_API_KEY=your-huggingface-api-key
+FIREBASE_API_KEY = your-firebase-api-key
 
 Usage
 Sign up or log in using Gmail or GitHub.
